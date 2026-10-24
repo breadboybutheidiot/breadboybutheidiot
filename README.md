@@ -102,27 +102,6 @@ Experimental 3D engine work using matrix-based logic.
 
 ---
 
-## 🎓 Tutoring
-
-I teach **Roblox Lua** with a practical approach so students can build portfolio projects, take freelance orders, and create games that generate revenue.
-
-### What I teach:
-- Lua fundamentals, modules, and project structure
-- Cash-grab loops: economy, rewards, shops
-- Shooting systems: recoil, hit registration, replication
-- UI animations and transitions
-- Datastore and security basics
-- Portfolio-ready mini case studies
-
-### Format:
-- One-on-one
-- Online
-- Practice + homework
-
-### Price:
-**$25/hour**
-
----
 
 ## 📫 Contact
 
