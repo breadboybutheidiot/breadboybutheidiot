@@ -106,15 +106,3 @@ Experimental 3D engine work using matrix-based logic.
 ## 📫 Contact
 
 - **Discord:** `gabrielsimax0592_56058`
-
----
-
-<details>
-  <summary><h3>📌 More About My Approach</h3></summary>
-
-I care about building systems that are not only functional, but also clean, scalable, and enjoyable to use.  
-My goal is to create Roblox experiences with strong gameplay loops, smooth UI, and systems that are ready for real production.
-
-I also enjoy tutoring developers who want to move beyond basics and start building portfolio-level work for the international market.
-
-</details>
