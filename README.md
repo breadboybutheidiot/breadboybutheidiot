@@ -2,10 +2,6 @@
 <h3 align="center">Roblox Developer • Systems Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Roblox+Developer;Cash-grab+%26+Monetization+Systems;Shooting+%26+Networking;UI+Motion+%26+Polish;+for+future+Roblox+freelancers" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <a href="https://github.com/YOUR_USERNAME?tab=followers">
     <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&label=Followers" alt="followers" />
   </a>
