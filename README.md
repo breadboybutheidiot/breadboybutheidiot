@@ -1,17 +1,6 @@
 <h1 align="center">Gabriel</h1>
 <h3 align="center">Roblox Developer • Systems Builder</h3>
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&label=Followers" alt="followers" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories">
-    <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=github&label=Stars" alt="stars" />
-  </a>
-  <img src="https://img.shields.io/badge/Discord-gabrielsimax0592__56058-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" />
-  <img src="https://img.shields.io/badge/Tutoring-$25%2Fhour-2ea44f?style=for-the-badge" alt="tutoring" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
