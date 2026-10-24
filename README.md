@@ -1,8 +1,8 @@
 <h1 align="center">Gabriel</h1>
-<h3 align="center">Roblox Developer • Systems Builder • Tutor</h3>
+<h3 align="center">Roblox Developer • Systems Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Roblox+Developer;Cash-grab+%26+Monetization+Systems;Shooting+%26+Networking;UI+Motion+%26+Polish;Tutoring+for+future+Roblox+freelancers" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Roblox+Developer;Cash-grab+%26+Monetization+Systems;Shooting+%26+Networking;UI+Motion+%26+Polish;+for+future+Roblox+freelancers" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -20,9 +20,9 @@
 
 ## 👨‍💻 About Me
 
-I'm a Roblox developer focused on building **production-ready systems** and helping games feel more polished, scalable, and profitable.
+I'm a Roblox developer focused on building **production ready systems** and helping games feel more polished, scalable, and profitable
 
-I mostly enjoy creating standalone systems, but I can also build full game features and connect them into a complete gameplay loop.
+I mostly enjoy creating standalone systems, but I can also build full game features and connect them into a complete gameplay loop
 
 ### My focus:
 - Cash-grab loops, monetization, and retention
@@ -36,14 +36,14 @@ I mostly enjoy creating standalone systems, but I can also build full game featu
 
 ## ⚡ What I Build
 
-- **Economy systems** — shops, rewards, progression loops
-- **Shooting systems** — weapons, recoil, hit registration, replication
-- **Combat systems** — attack, block, combos, effects
-- **UI systems** — polished interfaces, tweens, transitions
-- **Datastore systems** — secure and scalable saving
-- **Placement systems** — clean and reliable grid logic
-- **Inventory systems** — smart item organization and interaction
-- **Optimization** — CPU, FPS, and networking improvements
+- **Economy systems** - shops, rewards, progression loops
+- **Shooting systems** - weapons, recoil, hit registration, replication
+- **Combat systems** - attack, block, combos, effects
+- **UI systems** - polished interfaces, tweens, transitions
+- **Datastore systems** - secure and scalable saving
+- **Placement systems** - clean and reliable grid logic
+- **Inventory systems** - smart item organization and interaction
+- **Optimization** - CPU, FPS, and networking improvements
 - **Basic anti-exploit protection**
 
 ---
@@ -57,7 +57,6 @@ I mostly enjoy creating standalone systems, but I can also build full game featu
 ![Networking](https://img.shields.io/badge/Networking-1e1e1e?style=for-the-badge)
 ![Optimization](https://img.shields.io/badge/Optimization-1e1e1e?style=for-the-badge)
 ![DataStore](https://img.shields.io/badge/DataStore-1e1e1e?style=for-the-badge)
-![Tutoring](https://img.shields.io/badge/Tutoring-1e1e1e?style=for-the-badge)
 
 ---
 
